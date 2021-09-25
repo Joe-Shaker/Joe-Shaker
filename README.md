@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joe-Shaker
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Back-End Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
